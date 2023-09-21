@@ -24,7 +24,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![bid](https://github.com/Sookchand/Secret-Auction-Program/assets/34344439/7e8c2679-9acc-41e7-9e58-6f1aea01e6c4)
+
 
 
 ## Tech Stack
