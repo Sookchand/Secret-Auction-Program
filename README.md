@@ -24,7 +24,7 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![bid](https://github.com/Sookchand/Secret-Auction-Program/assets/34344439/7e8c2679-9acc-41e7-9e58-6f1aea01e6c4)
+![bid](https://github.com/Sookchand/Secret-Auction-Program/assets/34344439/a4212d61-3fb6-45d2-bbe5-1131447740ec)
 
 
 
